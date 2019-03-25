@@ -7,7 +7,7 @@
         </div>
 
         <div class="content">
-          <h3 class="is-heading">Join our newsletter</h3>
+          <!-- <h3 class="is-heading">Join our newsletter</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id felis et ipsum bibendum ultrices. Morbi vitae pulvinar velit. Sed aliquam dictum sapien, id sagittis augue malesuada eu.</p>
 
           <div class="alert-subscription" v-if="isSubscribed">
@@ -21,7 +21,8 @@
                 <i class="fa fa-arrow-right"></i>
               </button>
             </div>
-          </form>
+          </form> -->
+          <div class="fb-page" data-href="https://www.facebook.com/Bulantech/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Bulantech/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Bulantech/">Bulantech</a></blockquote></div>
         </div>
       </div>
     </section>
